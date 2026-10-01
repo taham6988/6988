@@ -1,0 +1,42 @@
+
+body {
+    background-color: #000d2f;
+    display: flex;
+    justify-content: center; 
+    align-items: center;               
+}
+
+
+.hello{
+    width: 300px;
+    height: 300px;
+
+}
+
+  .TM{
+    background-color: #000d2f;
+    width: 350px;
+    padding: 80px;
+    border-radius: 20px;
+    box-shadow: 0 30px 70px rgba(240, 240, 240, 0.2);
+    text-align: center;
+  }
+
+.about{
+    text-align: center;
+    text-decoration: solid;
+}
+
+.music{
+    text-align: right;
+}
+
+/* button{
+    border-radius: 10px;
+    background: none;
+    color: blue;
+    font-size: 18px;
+    width: 30px;
+    height: 10px;
+    border: 2px solid red;
+} */
